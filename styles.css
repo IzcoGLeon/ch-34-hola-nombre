@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.center {
+  margin: 30px auto;
+  padding: 30px;
+}
